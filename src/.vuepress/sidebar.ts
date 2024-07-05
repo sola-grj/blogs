@@ -67,6 +67,12 @@ export default sidebar({
           prefix: "typescript/",
           link: "typescript/",
         },
+        {
+          icon: "HTML",
+          text: "html",
+          prefix: "html/",
+          link: "html/",
+        },
         ],
     },
     {
@@ -88,6 +94,13 @@ export default sidebar({
       icon: "database",
       prefix: "database/",
       link: "database/",
+      collapsible:true,
+    },
+    {
+      text: "Git",
+      icon: "Git",
+      prefix: "Git/",
+      link: "Git/",
       collapsible:true,
     }
   ],

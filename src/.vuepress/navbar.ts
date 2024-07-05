@@ -22,5 +22,10 @@ export default navbar([
     text: "DATABASE",
     icon: "database",
     link: "/database/",
+  },
+  {
+    text: "Git",
+    icon: "git",
+    link: "/Git/",
   }
 ]);

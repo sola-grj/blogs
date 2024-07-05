@@ -1,8 +1,8 @@
 ---
-title: Web
+title: HTML
 index: false
-icon: internet
+icon: HTML
 category:
-  - Web
+  - HTML
 ---
 <Catalog /> 

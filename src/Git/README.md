@@ -1,8 +1,8 @@
 ---
-title: Web
+title: Git
 index: false
 icon: internet
 category:
-  - Web
+  - Git
 ---
 <Catalog /> 
