@@ -98,7 +98,7 @@ export default sidebar({
     },
     {
       text: "Git",
-      icon: "Git",
+      icon: "git",
       prefix: "Git/",
       link: "Git/",
       collapsible:true,
