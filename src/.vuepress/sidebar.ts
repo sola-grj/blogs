@@ -73,6 +73,12 @@ export default sidebar({
           prefix: "html/",
           link: "html/",
         },
+        {
+          icon: "uni-app",
+          text: "uniapp",
+          prefix: "uniapp/",
+          link: "uniapp/",
+        },
         ],
     },
     {
