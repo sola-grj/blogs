@@ -14,6 +14,11 @@ export default navbar([
     link: "/python/",
   },
   {
+    text: "NODE",
+    icon: "nodejs",
+    link: "/node/",
+  },
+  {
     text: "AI",
     icon: "wuguan",
     link: "/AI/",
@@ -27,5 +32,5 @@ export default navbar([
     text: "Git",
     icon: "git",
     link: "/Git/",
-  }
+  },
 ]);

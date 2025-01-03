@@ -8,14 +8,14 @@ export default sidebar({
       icon: "internet",
       prefix: "web/",
       link: "web/",
-      collapsible:true,
+      collapsible: true,
       children: [
         {
           icon: "vuejs",
           text: "vue",
           prefix: "vue/",
           link: "vue/",
-          collapsible:true,
+          collapsible: true,
           children: [
             {
               text: "vue2",
@@ -79,35 +79,51 @@ export default sidebar({
           prefix: "uniapp/",
           link: "uniapp/",
         },
-        ],
+      ],
+    },
+    {
+      text: "NODE",
+      icon: "nodejs",
+      prefix: "node/",
+      link: "node/",
+      collapsible: true,
+      children: [
+        {
+          icon: "nestjs",
+          text: "NestJs",
+          prefix: "nestjs/",
+          link: "nestjs/",
+          collapsible: true,
+        },
+      ],
     },
     {
       text: "PYTHON",
       icon: "python",
       prefix: "python/",
       link: "python/",
-      collapsible:true,
+      collapsible: true,
     },
     {
       text: "AI",
       icon: "wuguan",
       prefix: "AI/",
       link: "AI/",
-      collapsible:true,
+      collapsible: true,
     },
     {
       text: "database",
       icon: "database",
       prefix: "database/",
       link: "database/",
-      collapsible:true,
+      collapsible: true,
     },
     {
       text: "Git",
       icon: "git",
       prefix: "Git/",
       link: "Git/",
-      collapsible:true,
-    }
+      collapsible: true,
+    },
   ],
 });
