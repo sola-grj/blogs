@@ -9,6 +9,7 @@ export default defineUserConfig({
   description: "孜然地球的博客",
 
   theme,
+  dest:"dist"
   // 和 PWA 一起启用
   // shouldPrefetch: false,
 });
