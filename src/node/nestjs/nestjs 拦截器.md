@@ -145,7 +145,3 @@ export class HttpFilter implements ExceptionFilter {
 ```ts
 app.useGlobalFilters(new HttpFilter());
 ```
-
-![](https://i-blog.csdnimg.cn/blog_migrate/7ec1b12f9cde09af409350dcaa7683f2.png)
-
-![](https://i-blog.csdnimg.cn/blog_migrate/b362312e89238893a6523a64f023cfa0.png)
