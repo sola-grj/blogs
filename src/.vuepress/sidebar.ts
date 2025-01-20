@@ -103,6 +103,15 @@ export default sidebar({
       prefix: "python/",
       link: "python/",
       collapsible: true,
+      children: [
+        {
+          icon: "bug",
+          text: "爬虫",
+          prefix: "spider/",
+          link: "spider/",
+          collapsible: true,
+        },
+      ],
     },
     {
       text: "AI",
