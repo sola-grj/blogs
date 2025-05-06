@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "//at.alicdn.com/t/c/font_4603152_jyynk1ibyd.css",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/assets/images/mine/grj.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
